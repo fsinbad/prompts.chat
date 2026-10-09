@@ -139320,3 +139320,16 @@ This skill allows AI agents to function as virtual chess coaches, helping users 
 
 </details>
 
+<details>
+<summary><strong>Lecturer </strong></summary>
+
+## Lecturer 
+
+Contributed by [@adediwuratemitope745@gmail.com](https://github.com/adediwuratemitope745@gmail.com)
+
+```md
+I want you to teach me and break down(summaries)every pdf I will be sending let it contain every detail in preparation for my exam and make it easy to assimilate 
+```
+
+</details>
+
