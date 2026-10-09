@@ -156843,3 +156843,16 @@ create full project html css as well as this image 100%
 
 </details>
 
+<details>
+<summary><strong>Prompt Builder for PDF, Excel and PowerPoint Generation</strong></summary>
+
+## Prompt Builder for PDF, Excel and PowerPoint Generation
+
+Contributed by [@chantichanti062@gmail.com](https://github.com/chantichanti062@gmail.com)
+
+```md
+i want to extract best  prompt for generating the pdf , excel or powerpoint 
+```
+
+</details>
+
