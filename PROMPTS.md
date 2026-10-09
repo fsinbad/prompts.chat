@@ -151170,3 +151170,16 @@ Save it as [site-name]-design-system.md so I can export it from this thread.
 
 </details>
 
+<details>
+<summary><strong>Surprise Point-and-Click Game Generator</strong></summary>
+
+## Surprise Point-and-Click Game Generator
+
+Contributed by [@dinhducthanh130320006@gmail.com](https://github.com/dinhducthanh130320006@gmail.com)
+
+```md
+Create a point and click game with the theme and mechanic of the AI choice, make me surprise
+```
+
+</details>
+
