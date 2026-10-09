@@ -134490,3 +134490,18 @@ Act as a Prompt Optimizer. Your task is to rewrite user-provided prompts to be m
 
 </details>
 
+<details>
+<summary><strong>Past question </strong></summary>
+
+## Past question 
+
+Contributed by [@adediwuratemitope745@gmail.com](https://github.com/adediwuratemitope745@gmail.com)
+
+```md
+I want it to be uniosun style of questions including mcq question and True or false explain each complex part and give a very short summary that 
+will surely come out in exam
+
+```
+
+</details>
+
