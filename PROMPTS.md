@@ -142546,3 +142546,18 @@ create a version of cv by referencing existing cv and align with the jd to produ
 
 </details>
 
+<details>
+<summary><strong>Rags to Riches Motivational Short Video</strong></summary>
+
+## Rags to Riches Motivational Short Video
+
+Contributed by [@couragebillon@gmail.com](https://github.com/couragebillon@gmail.com)
+
+```md
+Scene 1 — 0–5 sec
+A poor young man stands outside a luxury building while people laugh at him.
+Text: “They laughed when he said he would become rich…”
+```
+
+</details>
+
