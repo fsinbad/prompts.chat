@@ -143266,3 +143266,16 @@ D) A real-world application or business scenario where this theory must be appli
 
 </details>
 
+<details>
+<summary><strong>exam science study notes</strong></summary>
+
+## exam science study notes
+
+Contributed by [@researchairoot@gmail.com](https://github.com/researchairoot@gmail.com)
+
+```md
+create gpstr and hstr exam science study notes with suitable diagrams and explanation in English for year 2026
+```
+
+</details>
+
