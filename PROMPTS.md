@@ -136493,3 +136493,16 @@ Make the result look like an upgraded, well-lit, professional version of a corpo
 
 </details>
 
+<details>
+<summary><strong>Video</strong></summary>
+
+## Video
+
+Contributed by [@itnesttomal@gmail.com](https://github.com/itnesttomal@gmail.com)
+
+```md
+Cinematic close-up of a mysterious bartender pouring a glowing green liquid into a glass, heavy smoke rising, dark cocktail bar background, 4k, hyper-realistic, slow motion.
+```
+
+</details>
+
