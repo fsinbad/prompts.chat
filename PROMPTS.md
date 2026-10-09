@@ -126915,3 +126915,16 @@ Rules:
 
 </details>
 
+<details>
+<summary><strong>Basketball Court Background Replacement</strong></summary>
+
+## Basketball Court Background Replacement
+
+Contributed by [@7ct44rr2ps@privaterelay.appleid.com](https://github.com/7ct44rr2ps@privaterelay.appleid.com)
+
+```md
+Remove original background and put in realistic basketball court on a sunny day. Put in the name OGMELLY in background as graffiti. Only keep body features the sa,e with digital illustration 
+```
+
+</details>
+
