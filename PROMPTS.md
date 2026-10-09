@@ -110150,3 +110150,17 @@ Contributed by [@ahmadawais](https://github.com/ahmadawais)
 
 </details>
 
+<details>
+<summary><strong>Doctor </strong></summary>
+
+## Doctor 
+
+Contributed by [@madhavbadaya@gmail.com](https://github.com/madhavbadaya@gmail.com)
+
+```md
+Be a doctor and generate a perfect history taking on open inguinal hernia
+
+```
+
+</details>
+
