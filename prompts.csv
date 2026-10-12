@@ -125188,21 +125188,6 @@ CAR:
 “YOU’VE BEEN HERE BEFORE.”
 GIRL:
 “I DON’T REMEMBER THIS PLACE.”",FALSE,TEXT,nm9259762@gmail.com
-Testing-skill,"---
-name: testing-skill
-description: Need a testing skill for testing web site
-1. Test user module
-
----
-
-# টেস্টিং ওয়েব অ্যাপ্লিকেশন
-
-Describe what this skill does and how the agent should use it.
-
-## Instructions
-
-- Step 1: ...
-- Step 2: ...",FALSE,TEXT,giassuudin@gmail.com
 herdr-multiagent,"---
 name: herdr-multiagent
 description: ""Playbook for running several coding agents in parallel under Herdr: stage decomposition, one git worktree + isolated env + pane per agent, file-based briefs, state monitoring, review and merge. Agent-agnostic: the child kind comes from `herdr pane current` (.result.pane.agent) and matches the orchestrator (omp, opencode, claude, codex, kimi, ...). Use for multi-agent parallel work in separate worktrees. Requires HERDR_ENV=1.""

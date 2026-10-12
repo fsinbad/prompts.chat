@@ -151204,33 +151204,6 @@ GIRL:
 </details>
 
 <details>
-<summary><strong>Testing-skill</strong></summary>
-
-## Testing-skill
-
-Contributed by [@giassuudin@gmail.com](https://github.com/giassuudin@gmail.com)
-
-```md
----
-name: testing-skill
-description: Need a testing skill for testing web site
-1. Test user module
-
----
-
-# টেস্টিং ওয়েব অ্যাপ্লিকেশন
-
-Describe what this skill does and how the agent should use it.
-
-## Instructions
-
-- Step 1: ...
-- Step 2: ...
-```
-
-</details>
-
-<details>
 <summary><strong>herdr-multiagent</strong></summary>
 
 ## herdr-multiagent
